@@ -1,4 +1,4 @@
-# Olá, eu sou o Santiago! 👨🏻‍💻
+# Olá, eu sou o Santiago! 👨🏻‍💻🇧🇷🇨🇴
 
 **Estudante de Engenharia de Software | Front-End Developer | Foco em Qualidade e UX**
 
