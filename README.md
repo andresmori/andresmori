@@ -37,23 +37,20 @@ Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  
-  <img 
-    width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" 
-  />
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&locale=pt-br" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img 
-    width="60%" 
-    src="https://streak-stats.demolab.com?user=andresmori&theme=tokyonight&locale=pt-br" 
-  />
+  <img src="https://streak-stats.demolab.com?user=andresmori&theme=tokyonight&locale=pt-br" />
 </p>
 ---
 
