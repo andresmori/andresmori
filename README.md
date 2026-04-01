@@ -37,10 +37,14 @@ Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde
 
 ### 📊 Estatísticas
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" height="165" alt="Linguagens mais usadas" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400" 
+    height="165" 
+    alt="Estatísticas do GitHub" 
+  />
+  
 
 ---
 
