@@ -1,11 +1,13 @@
 # Olá, eu sou o Santiago! 👨🏻‍💻
 
-**Estudante de Engenharia de Software | Front-End Developer | Foco em Qualidade e UX**
+Sou estudante de Engenharia de Software apaixonado por unir código, design e resolução de problemas para criar produtos que realmente impactam as pessoas. Meu foco principal é o desenvolvimento Front-End e a Qualidade de Software, garantindo que as aplicações sejam eficientes, acessíveis e sem falhas.
 
-Sou apaixonado por unir tecnologia, design e resolução de problemas para criar produtos que realmente impactam a vida das pessoas. Direto de Manaus, minha trajetória começou no rigoroso controle de qualidade da produção gráfica e corte a laser, o que me deu uma base sólida de atenção aos detalhes. Hoje, aplico essa mesma mentalidade investigativa e exigente no desenvolvimento web e na busca por qualidade de software.
+Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde o cuidado com a tipografia e a interface visual, até a arquitetura do código que faz tudo rodar nos bastidores. 
 
-Gosto de pensar no produto de ponta a ponta: desde a tipografia e interface até o código que faz tudo funcionar e a acessibilidade para o usuário final.
-
+💻 **Meu Foco e Tecnologias:**
+* **Front-End & UI/UX:** Construção de interfaces responsivas e acessíveis com JavaScript, React, HTML, CSS e Figma.
+* **Lógica & Dados:** Python, SQL e forte base em Estruturas de Dados.
+* **Qualidade de Software:** Mentalidade voltada para testes, análise de requisitos e experiência do usuário final.
 ### 💡 Projetos Recentes e Destaques
 - **[Way Finder](#)**: Prototipação de um sistema de rotas focado em acessibilidade para pessoas com deficiência visual, garantindo autonomia e clareza nos trajetos de ônibus.
 - **[Sonare](#)**: Dispositivo integrado com Machine Learning para escaneamento de produtos, retornando identificação e preço em tempo real.
