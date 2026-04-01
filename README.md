@@ -35,20 +35,8 @@ Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde
 
 ---
 
-### 📊 Estatísticas (andresmori)
 
-<div align="center">
-  <a href="https://github.com/andresmori">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Santiago"/>
-  </a>
-  <a href="https://github.com/andresmori">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-  </a>
-</div>
-
----
-
-### 👾 Contribution Snake (Meu Gráfico em Movimento!)
+### 👾 estadisticas
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresmori&theme=tokyonight&area=true&hide_border=true&hide_legend=true&custom_title=My%20Contribution%20Graph"/>
@@ -63,6 +51,6 @@ Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde
 ### 📬 Contatos
 
 <div style="display: inline-block;">
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="andresmori13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/santiago-andrés-diaz-mori-8525a231b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
