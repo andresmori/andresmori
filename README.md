@@ -1,21 +1,26 @@
 # Olá, eu sou o Santiago! 👨🏻‍💻
 
+**Estudante de Engenharia de Software | Front-End Developer | Foco em Qualidade e UX**
+
 Sou estudante de Engenharia de Software apaixonado por unir código, design e resolução de problemas para criar produtos que realmente impactam as pessoas. Meu foco principal é o desenvolvimento Front-End e a Qualidade de Software, garantindo que as aplicações sejam eficientes, acessíveis e sem falhas.
 
-Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde o cuidado com a tipografia e a interface visual, até a arquitetura do código que faz tudo rodar nos bastidores. 
+Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde o cuidado com a tipografia e a interface visual, até a arquitetura do código que faz tudo rodar nos bastidores.
 
 💻 **Meu Foco e Tecnologias:**
 * **Front-End & UI/UX:** Construção de interfaces responsivas e acessíveis com JavaScript, React, HTML, CSS e Figma.
-* **Lógica & Dados:** Python, SQL e forte base em Estruturas de Dados.
+* **Lógica & Dados:** Python, SQL y forte base em Estruturas de Dados.
 * **Qualidade de Software:** Mentalidade voltada para testes, análise de requisitos e experiência do usuário final.
-### 💡 Projetos Recentes e Destaques
-- **[Way Finder](#)**: Prototipação de um sistema de rotas focado em acessibilidade para pessoas com deficiência visual, garantindo autonomia e clareza nos trajetos de ônibus.
-- **[Sonare](#)**: Dispositivo integrado com Machine Learning para escaneamento de produtos, retornando identificação e preço em tempo real.
+
+---
+
+### 💡 Projetos Acadêmicos e Destaques
+- **[Way Finder (Prototipação)](#)**: Sistema de rotas focado em acessibilidade para pessoas com deficiência visual, garantindo autonomía nos trajetos de ônibus.
+- **[Sonare (Machine Learning)](#)**: Dispositivo integrado com Machine Learning para escaneamento de produtos, retornando identificação e preço em tempo real.
 - **[ARAUÁ DESIGN](#)**: Desenvolvimento front-end focado em uma experiência visual limpa e design tipográfico avançado.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 Tecnologias e Ferramentas
 
 <div style="display: inline-block; margin-bottom: 20px;">
   <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -25,4 +30,39 @@ Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Figma" height="40" width="50" src="
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+
+---
+
+### 📊 Estatísticas (andresmori)
+
+<div align="center">
+  <a href="https://github.com/andresmori">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Santiago"/>
+  </a>
+  <a href="https://github.com/andresmori">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
+  </a>
+</div>
+
+---
+
+### 👾 Contribution Snake (Meu Gráfico em Movimento!)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresmori&theme=tokyonight&area=true&hide_border=true&hide_legend=true&custom_title=My%20Contribution%20Graph"/>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/platane/github-readme-snake@output/github-contribution-grid-snake.svg" alt="A cobrinha comendo contribuições"/>
+</div>
+
+---
+
+### 📬 Contatos
+
+<div style="display: inline-block;">
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
