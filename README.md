@@ -37,8 +37,8 @@ Tenho um olhar investigativo e gosto de atuar no produto de ponta a ponta: desde
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Santiago"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&hide_title=false" alt="Linguagens mais usadas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andresmori&show_icons=true&theme=tokyonight&locale=pt-br&v=1" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmori&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&v=1" alt="Linguagens mais usadas" />
 </div>
 ---
 
